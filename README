@@ -1,0 +1,13 @@
+使用流程：
+1 将myvim目录复制成～下的.vim
+$:mv -f myvim ~/.vim
+
+2 建立～/.vim/vimrc到～/.vimrc的软连接
+$:cd ~/;ln -s .vim/vimrc .vimrc
+
+3 ok
+
+4 如果添加了插件，记住同步到github上去:
+$:cd ~/.vim/;git add .;git commit -m "修改说明"；git push origin master;
+
+------------------------------------------------------------------------ 
