@@ -1,8 +1,9 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_cnt =7
 let g:netrw_dirhist_1='/home/jxl/Desktop/remote/btcTrade/bak_apacheconf'
 let g:netrw_dirhist_2='/home/jxl/Desktop/remote/btcTrade/btcTrade'
 let g:netrw_dirhist_3='/home/jxl/Desktop/remote/btcTrade/apache'
 let g:netrw_dirhist_4='/home/jxl/Documents/test_station/test_station'
 let g:netrw_dirhist_5='/home/jxl/Dropbox/file/luoyisitai/luoyisitai/luoyisitai'
 let g:netrw_dirhist_6='/home/jxl/Desktop/luoyisitai/luoyisitai/medias/libs/bootstrap/bootstrap-3.0.0/js'
+let g:netrw_dirhist_7='/etc'

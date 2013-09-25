@@ -9,3 +9,4 @@ map <tab> :bn<cr>
 map F :FufCoverageFile <cr> 
 let g:fuf_coveragefile_globPatterns = ['**/*']
 set tabstop=4
+set hlsearch
