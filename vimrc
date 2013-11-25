@@ -8,6 +8,6 @@ map <s-tab> :bp<cr>
 map <tab> :bn<cr>
 map F :FufCoverageFile <cr> 
 let g:fuf_coveragefile_globPatterns = ['**/*']
-set tabstop=4
+set tabstop=2
 set hlsearch
 set shiftwidth=4

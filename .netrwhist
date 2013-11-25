@@ -1,5 +1,10 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_cnt =8
 let g:netrw_dirhist_1='/usr/local/lib/python2.7/dist-packages/django/views/generic'
 let g:netrw_dirhist_2='/var/www/cgi-bin'
 let g:netrw_dirhist_3='/home/dsgh/Documents/MCT/mct-webui/mct_controller_ui/views'
+let g:netrw_dirhist_4='/home/dsgh/Documents/MCT/mct-webui/domain_controller'
+let g:netrw_dirhist_5='/home/dsgh/Documents/COD/COD-with-git/cod/web_server'
+let g:netrw_dirhist_6='/home/dsgh/Documents/COD/COD-with-git/cod/web_server/controller'
+let g:netrw_dirhist_7='/home/dsgh/Documents/MCT/mct-webui/web_cgi'
+let g:netrw_dirhist_8='/home/dsgh/Documents/MCT/mct-webui/drivers'
